@@ -15,9 +15,7 @@ https://doi.org/10.1117/12.2267773
 
 **Version 1.0**
 
-<img src="./peppers.png" width=30%> 
-<img src="./peppers_mask.png" width=30%> 
-<img src="./results/output.png" width=30%> 
+<img src="./peppers.png" width=30%> <img src="./peppers_mask.png" width=30%> <img src="./results/output.png" width=30%> 
 
 **Date:16/10/2019**
 
